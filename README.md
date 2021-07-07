@@ -1,5 +1,4 @@
 # Reto Inicial
-# Título del Proyecto
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
@@ -84,10 +83,10 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Jaime Chacón** - *Reto Inicial* - [jaimechacon11](https://github.com/jaimechacon11)
+* **Juan Cedillo** - *Reto Inicial* - [Gutenks](https://github.com/Gutenks)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
 
 ## Licencia 📄
 
