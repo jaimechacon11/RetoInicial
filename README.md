@@ -8,6 +8,8 @@ _iremos mostrando información módulo por módulo con un resumen de lo más imp
 
 Mira **Microsoft Azure** para conocer más sobre la certificación.
 
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/azure-1.png)
+
 ### Pre-requisitos 📋
 
 _Necesitamos conocer conceptos básicos sobre computación ya que si bien no es necesario estudiar una carrera acorde al tema, si es de bastante funcionalidad saber los contextos con los que se realizan cada una de las cosas sobre todo al implementar_
