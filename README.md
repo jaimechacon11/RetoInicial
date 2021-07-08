@@ -6,7 +6,7 @@ _Éste es un espacio donde podremos encontrar información acerca de nuestro cur
 
 _iremos mostrando información módulo por módulo con un resumen de lo más importante o lo que creemos necesario para poder entender de mejor manera cada uno de los módulos._
 
-Mira **Microsoft Azure** para conocer más sobre la certificación |.
+Mira **Microsoft Azure** para conocer más sobre la certificación.
 
 ### Pre-requisitos 📋
 
