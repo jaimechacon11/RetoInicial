@@ -2,7 +2,7 @@
 
 _Éste es un espacio donde podremos encontrar información acerca de nuestro curso de preparación rumbo a la certificación de Azure_
 
-![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/azure-1.png)
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/unnamed.jpg)
 
 ## Comenzando 🚀
 
@@ -19,6 +19,8 @@ _Necesitamos conocer conceptos básicos sobre computación ya que si bien no es 
 ```
 La informática sin servidor es la abstracción de los servidores, la infraestructura y los sistemas operativos.
 ```
+
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/requisitos-contrato-de-sociedad.png)
 
 ### Instalación 🔧
 
