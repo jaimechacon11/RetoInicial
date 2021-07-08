@@ -2,6 +2,8 @@
 
 _Éste es un espacio donde podremos encontrar información acerca de nuestro curso de preparación rumbo a la certificación de Azure_
 
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/azure-1.png)
+
 ## Comenzando 🚀
 
 _iremos mostrando información módulo por módulo con un resumen de lo más importante o lo que creemos necesario para poder entender de mejor manera cada uno de los módulos._
