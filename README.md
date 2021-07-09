@@ -2,11 +2,11 @@
 
 _Éste es un espacio donde podremos encontrar información acerca de nuestro curso de preparación rumbo a la certificación de Azure_
 
-![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/unnamed.jpg)
+<div align="center">![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/unnamed.jpg)</div>
 
 ## Comenzando 🚀
 
-_iremos mostrando información módulo por módulo con un resumen de lo más importante o lo que creemos necesario para poder entender de mejor manera cada uno de los módulos._
+_Iremos mostrando información módulo por módulo con un resumen de lo más importante o lo que creemos necesario para poder entender de mejor manera cada uno de los módulos._
 
 Mira **Microsoft Azure** para conocer más sobre la certificación.
 
@@ -22,25 +22,47 @@ La informática sin servidor es la abstracción de los servidores, la infraestru
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/requisitos-contrato-de-sociedad.png)
 
-### Instalación 🔧
+## Primer Módulo ⚙️
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Explica como ejecutar las pruebas automatizadas para este sistema_
 
-_Dí cómo será ese paso_
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
 
 ```
 Da un ejemplo
 ```
 
-_Y repite_
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
 
 ```
-hasta finalizar
+Da un ejemplo
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+## Segundo Módulo ⚙️
 
-## Ejecutando las pruebas ⚙️
+_Explica como ejecutar las pruebas automatizadas para este sistema_
+
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+## Tercer Módulo ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
@@ -66,23 +88,19 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Para la construcción de éste hicimos uso de algunos destinos de Azure asi como otros recursos los cuales pueden ser..._
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-- [Maven](https://maven.apache.org/) - Manejador de dependencias
-- [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+- [Canvas](https://www.canva.com) - El uso gráfico más importante
+- [Acordeón](https://github.com/josejesusguzman/acordeon-az900-innovaccion/tree/summer-camp) - Acordeón dado por sherpa
+- [Challenges](https://github.com/josejesusguzman/acordeon-az900-innovaccion/tree/summer-camp) - Notas de Microsoft Azure
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de éste curso en [Microsoft](https://www.microsoft.com/es-mx)
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jaimechacon11/RetoInicial).
 
 ## Autores ✒️
 
@@ -93,7 +111,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia personal para detalles.
 
 ## Expresiones de Gratitud 🎁
 
