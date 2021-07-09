@@ -32,18 +32,19 @@ _Objetivos de aprendizaje_
 - Describir los conceptos básicos de la informática en la nube.
 - Determinar si Azure es la solución adecuada para las necesidades empresariales.
 - Diferenciar entre los distintos métodos para crear una suscripción de Azure.
+#### Rutas de aprendizaje
 - [¿Qué es la informática en la nube?](https://azure.microsoft.com/es-mx/overview/what-is-the-cloud/) ☁
 - [¿Qué es Azure?](https://azure.microsoft.com/es-mx/overview/what-is-azure/#most-popular-questions) 🤔
 - [Paseo por los servicios de Azure](https://azure.microsoft.com/es-mx/?&ef_id=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&OCID=AID2200215_SEM_EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&gclid=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE) 🛳
     
 
-### ¿Qué es la informática en la nube? 
+## ¿Qué es la informática en la nube? 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Copia%20de%20Getting%20to%20the%20Core.png)
 
-### ¿Qué es azure? 
+## ¿Qué es azure? 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
 
-### Servicios de azure 
+## Servicios de azure 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Proceso%20Los%20servicios%20de%20la%20nube%20permiten%20escalar%20a%20nuestra%20capacidad%20de%20computo%20con%20respecto%20a%20la%20demanda%2C%20pagando%20solo%20por%20lo%20que%20usamos.png)
 
 ## Segundo Módulo ⚙️
