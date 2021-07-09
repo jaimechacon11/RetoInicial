@@ -77,29 +77,35 @@ _Objetivos de aprendizaje_
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/CONCEPTOS%20FUNDAMENTALES%20DE.png)
 
-## Tercer Módulo ⚙️
+## Tercer Módulo 📘📘📘
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+### Introducción a los aspectos básicos de Azure 😎
 
-### Analice las pruebas end-to-end 🔩
+_Objetivos de aprendizaje_
 
-_Explica que verifican estas pruebas y por qué_
+#### Descripción de los componentes principales de la arquitectura de Azure 🤝
 
-```
-Da un ejemplo
-```
+- Suscripciones y grupos de administración de Azure.
+- Recursos de Azure, grupos de recursos de Azure y Azure Resource Manager.
+- Regiones de Azure, pares de regiones y zonas de disponibilidad.
 
-### Y las pruebas de estilo de codificación ⌨️
+#### Rutas de aprendizaje-----
 
-_Explica que verifican estas pruebas y por qué_
+- [¿Qué es la informática en la nube?](https://azure.microsoft.com/es-mx/overview/what-is-the-cloud/) ☁
+- [¿Qué es Azure?](https://azure.microsoft.com/es-mx/overview/what-is-azure/#most-popular-questions) 🤔
+- [Paseo por los servicios de Azure](https://azure.microsoft.com/es-mx/?&ef_id=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&OCID=AID2200215_SEM_EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&gclid=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE) 🛳
 
-```
-Da un ejemplo
-```
+## ¿Qué es la informática en la nube?
 
-## Despliegue 📦
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Copia%20de%20Getting%20to%20the%20Core.png)
 
-_Agrega notas adicionales sobre como hacer deploy_
+## ¿Qué es azure?
+
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
+
+## Servicios de azure
+
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Proceso%20Los%20servicios%20de%20la%20nube%20permiten%20escalar%20a%20nuestra%20capacidad%20de%20computo%20con%20respecto%20a%20la%20demanda%2C%20pagando%20solo%20por%20lo%20que%20usamos.png)
 
 ## Construido con 🛠️
 
@@ -109,7 +115,7 @@ _Para la construcción de éste hicimos uso de algunos destinos de Azure asi com
 - [Acordeón](https://github.com/josejesusguzman/acordeon-az900-innovaccion/tree/summer-camp) - Acordeón dado por sherpa
 - [Challenges](https://github.com/josejesusguzman/acordeon-az900-innovaccion/tree/summer-camp) - Notas de Microsoft Azure
 
-## Wiki 📖
+## Microsoft 📖
 
 Puedes encontrar mucho más de éste curso en [Microsoft](https://www.microsoft.com/es-mx)
 
