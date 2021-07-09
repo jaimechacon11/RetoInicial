@@ -93,7 +93,8 @@ _Objetivos de aprendizaje_
 
 - [¿Qué es la informática en la nube?](https://azure.microsoft.com/es-mx/overview/what-is-the-cloud/) ☁
 - [¿Qué es Azure?](https://azure.microsoft.com/es-mx/overview/what-is-azure/#most-popular-questions) 🤔
-- [Paseo por los servicios de Azure](https://azure.microsoft.com/es-mx/?&ef_id=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&OCID=AID2200215_SEM_EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&gclid=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE) 🛳
+- [Recursos de Azure y Azure Resource Manager](https://azure.microsoft.com/es-mx/features/resource-manager/#:~:text=Azure%20Resource%20Manager%20permite%20controlar,o%20grupos%20a%20dichos%20roles.&text=Azure%20Resource%20Manager%20registra%20todas,usuarios%20para%20que%20puedan%20auditarse.) 📥
+- [Suscripciones y grupos de administración de Azure](https://docs.microsoft.com/es-es/azure/governance/management-groups/overview#:~:text=Los%20grupos%20de%20administración%20de%20Azure%20proporcionan%20un%20nivel%20de,a%20los%20grupos%20de%20administración.) 🧾
 
 ## ¿Qué es la informática en la nube?
 
@@ -103,9 +104,13 @@ _Objetivos de aprendizaje_
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
 
-## Servicios de azure
+## Recursos de Azure y Azure Resource Manager
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Proceso%20Los%20servicios%20de%20la%20nube%20permiten%20escalar%20a%20nuestra%20capacidad%20de%20computo%20con%20respecto%20a%20la%20demanda%2C%20pagando%20solo%20por%20lo%20que%20usamos.png)
+
+## Suscripciones y grupos de administración de Azure
+
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
 
 ## Construido con 🛠️
 
