@@ -136,7 +136,10 @@ Este proyecto está bajo la Licencia personal para detalles.
 
 ## Expresiones de Gratitud 🎁
 
-- Comenta a otros sobre este proyecto 📢
+- Comenta a otros sobre este curso 📢
+- No andes triste, mejor anda conmigo ♥
+- ¿Sabías que las manzanas 🍎 reducen peso... Y el plátano 🍌 tallas?
 - Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
 - Da las gracias públicamente 🤓.
-- etc.
+- Si te duele el estómago té de manzanilla 🌼, si te duele la garganta té de limón 🍋, si te duele las nalgas te convencieron 🥰.
+- La montaña más limpia es el volcán porque primero hecha cenizas y después lava. 🌋🤤
