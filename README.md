@@ -98,11 +98,11 @@ _Objetivos de aprendizaje_
 
 ## Introducción a las suscripciones, los grupos de administración y los recursos de Azure
 
-![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Copia%20de%20Getting%20to%20the%20Core.png)
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Blue%20and%20White%20Funnel%20Chart%20Presentation.png)
 
 ## Zonas de disponibilidad, pares de regiones y regiones de Azure
 
-![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Colorful%20Hexagon%20Mind%20Map.png)
 
 ## Recursos de Azure y Azure Resource Manager
 
