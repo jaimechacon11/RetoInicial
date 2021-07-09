@@ -91,16 +91,16 @@ _Objetivos de aprendizaje_
 
 #### Rutas de aprendizaje-----
 
-- [¿Qué es la informática en la nube?](https://azure.microsoft.com/es-mx/overview/what-is-the-cloud/) ☁
-- [¿Qué es Azure?](https://azure.microsoft.com/es-mx/overview/what-is-azure/#most-popular-questions) 🤔
+- [Introducción a las suscripciones, los grupos de administración y los recursos de Azure](https://docs.microsoft.com/es-es/azure/governance/management-groups/) ⚙🏭🏬
+- [Zonas de disponibilidad, pares de regiones y regiones de Azure](https://github.com/MicrosoftDocs/azure-docs.es-es/blob/master/articles/availability-zones/az-overview.md) 🌐🗺
 - [Recursos de Azure y Azure Resource Manager](https://azure.microsoft.com/es-mx/features/resource-manager/#:~:text=Azure%20Resource%20Manager%20permite%20controlar,o%20grupos%20a%20dichos%20roles.&text=Azure%20Resource%20Manager%20registra%20todas,usuarios%20para%20que%20puedan%20auditarse.) 📥
 - [Suscripciones y grupos de administración de Azure](https://docs.microsoft.com/es-es/azure/governance/management-groups/overview#:~:text=Los%20grupos%20de%20administración%20de%20Azure%20proporcionan%20un%20nivel%20de,a%20los%20grupos%20de%20administración.) 🧾
 
-## ¿Qué es la informática en la nube?
+## Introducción a las suscripciones, los grupos de administración y los recursos de Azure
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Copia%20de%20Getting%20to%20the%20Core.png)
 
-## ¿Qué es azure?
+## Zonas de disponibilidad, pares de regiones y regiones de Azure
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
 
@@ -133,7 +133,7 @@ Para todas las versiones disponibles, mira los [tags en este repositorio](https:
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 - **Jaime Chacón** - _Reto Inicial_ - [jaimechacon11](https://github.com/jaimechacon11)
-- **Juan Cedillo** - _Reto Inicial_ - [Gutenks](https://github.com/Gutenks)
+- [**Juan Cedillo**](https://gutenks49.000webhostapp.com/) - _Reto Inicial_ - [Gutenks](https://github.com/Gutenks)
 
 ## Licencia 📄
 
