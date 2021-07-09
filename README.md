@@ -2,7 +2,7 @@
 
 _Éste es un espacio donde podremos encontrar información acerca de nuestro curso de preparación rumbo a la certificación de Azure_
 
-<div align="center">![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/unnamed.jpg)</div>
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/unnamed.jpg)
 
 ## Comenzando 🚀
 
@@ -22,25 +22,29 @@ La informática sin servidor es la abstracción de los servidores, la infraestru
 
 ![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/requisitos-contrato-de-sociedad.png)
 
-## Primer Módulo ⚙️
+## Primer Módulo 📒
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+### Introducción a los aspectos básicos de Azure 😎
 
-### Analice las pruebas end-to-end 🔩
+_Objetivos de aprendizaje_
+#### Después de completar este módulo, podrá 🤝
 
-_Explica que verifican estas pruebas y por qué_
+-Describir los conceptos básicos de la informática en la nube.
+-Determinar si Azure es la solución adecuada para las necesidades empresariales.
+-Diferenciar entre los distintos métodos para crear una suscripción de Azure.
 
-```
-Da un ejemplo
-```
+-¿Qué es la informática en la nube? (https://azure.microsoft.com/es-mx/overview/what-is-the-cloud/) ☁
+-¿Qué es Azure? (https://azure.microsoft.com/es-mx/overview/what-is-azure/#most-popular-questions) 🤔
+-Paseo por los servicios de Azure (https://azure.microsoft.com/es-mx/?&ef_id=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&OCID=AID2200215_SEM_EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE:G:s&gclid=EAIaIQobChMIoYLknO3U8QIVldrICh3eAAzPEAAYAiAAEgIPFPD_BwE) 🛳
 
-### Y las pruebas de estilo de codificación ⌨️
+### ¿Qué es la informática en la nube? 
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/requisitos-contrato-de-sociedad.png)
 
-_Explica que verifican estas pruebas y por qué_
+### ¿Qué es azure? 
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/requisitos-contrato-de-sociedad.png)
 
-```
-Da un ejemplo
-```
+### Servicios de azure 
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/requisitos-contrato-de-sociedad.png)
 
 ## Segundo Módulo ⚙️
 
