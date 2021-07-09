@@ -79,11 +79,11 @@ _Objetivos de aprendizaje_
 
 ## Tercer Módulo 📘📘📘
 
-### Introducción a los aspectos básicos de Azure 😎
+### Descripción de los componentes principales de la arquitectura de Azure 😎
 
 _Objetivos de aprendizaje_
 
-#### Descripción de los componentes principales de la arquitectura de Azure 🤝
+#### Después de completar este módulo, podrá 🤝
 
 - Suscripciones y grupos de administración de Azure.
 - Recursos de Azure, grupos de recursos de Azure y Azure Resource Manager.
