@@ -66,16 +66,16 @@ _Objetivos de aprendizaje_
 
 #### Rutas de aprendizaje
 
-- [Descripción de los distintos tipos de modelos de la nube](https://github.com/jaimechacon11/RetoInicial/blob/main/Nubes.png) ⛅⛈🌦
-- [Descripción de distintos servicios en la nube](https://github.com/jaimechacon11/RetoInicial/blob/main/CONCEPTOS%20FUNDAMENTALES%20DE.png) 🏁
+- [Descripción de los distintos tipos de modelos de la nube](https://azure.microsoft.com/es-mx/overview/what-are-private-public-hybrid-clouds/) ⛅⛈🌦
+- [Descripción de distintos servicios en la nube](https://www.bertia.es/microsoft-azure-iaas-paas-y-saas/) 🏁
 
 ## Descripción de los distintos tipos de modelos de la nube
 
-![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Copia%20de%20Getting%20to%20the%20Core.png)
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Nubes.png)
 
 ## Descripción de distintos servicios en la nube
 
-![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/Getting%20to%20the%20Core.png)
+![Image text](https://github.com/jaimechacon11/RetoInicial/blob/main/CONCEPTOS%20FUNDAMENTALES%20DE.png)
 
 ## Tercer Módulo ⚙️
 
